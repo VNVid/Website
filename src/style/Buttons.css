@@ -1,0 +1,15 @@
+.start_button {
+    width: 217px;
+    height: 70px;
+
+    background-color: #B4A0C5;
+    border-radius: 30px;
+}
+
+.add_button {
+    color: red;
+    border-radius: 10px;
+
+    width: 150px;
+    height: 50px;
+}

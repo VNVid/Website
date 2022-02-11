@@ -1,0 +1,28 @@
+.app {
+  background-color: #C1B0CE;
+  display: flex;
+  height: 10vh;
+  left: 0%;
+  top: 0%;
+}
+
+.intro_text {
+  font-family: Abhaya Libre ExtraBold;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+
+  text-align: center;
+  letter-spacing: -0.04em;
+
+  color: #000000;
+}
+
+.set_background {
+  background-color: #C1B0CE;
+}
+
+.form {
+  height: 20vh;
+  width: 60vh;
+}
